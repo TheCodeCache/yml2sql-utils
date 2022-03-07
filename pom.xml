@@ -9,10 +9,10 @@
 		<version>1.0.0-SNAPSHOT</version>
 	</parent>
 
-	<artifactId>blue-utils</artifactId>
+	<artifactId>yml2sql-utils</artifactId>
 	<packaging>jar</packaging>
 
-	<name>blue-utils</name>
+	<name>yml2sql-utils</name>
 	<url>http://maven.apache.org</url>
 
 	<properties>
