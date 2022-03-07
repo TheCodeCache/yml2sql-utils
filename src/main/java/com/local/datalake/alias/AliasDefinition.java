@@ -31,7 +31,7 @@ import com.local.datalake.exception.ViewException;
  * <li>if json node key all in lower case, then use them as it is
  * <li>if json node key all in upper case, then lower it and use.
  * 
- * @author yml2sql
+ * @author manoranjan
  */
 public class AliasDefinition {
 
