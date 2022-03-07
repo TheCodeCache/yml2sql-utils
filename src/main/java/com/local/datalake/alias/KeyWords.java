@@ -16,7 +16,7 @@ import java.util.stream.Stream;
  * 
  * It uses "Trie" under the hood for an efficient search operation
  * 
- * @author yml2sql
+ * @author manoranjan
  */
 public class KeyWords {
 
