@@ -1,0 +1,11 @@
+request_id	request_id
+request_timestamp	request_timestamp
+session_id	session_id
+client_id	client_id
+country	country
+state	state
+product_nm	product_nm
+client_nm	client_nm
+carrier_nm	carrier_nm
+integration_nm	integration_nm
+client_analytics_id	client_analytics_id
