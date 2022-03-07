@@ -18,6 +18,8 @@ import com.local.datalake.query.SimpleProjection;
 
 /**
  * alias resolver
+ *
+ * @author manoranjan
  */
 public class AliasResolver {
 
