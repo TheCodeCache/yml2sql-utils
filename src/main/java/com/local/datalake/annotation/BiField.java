@@ -16,7 +16,7 @@ import com.local.datalake.validator.BiFieldValidator;
 /**
  * cross-field validation involving a pair of fields
  * 
- * @author yml2sql
+ * @author manoranjan
  */
 @Target({ TYPE, ANNOTATION_TYPE })
 @Retention(RUNTIME)
